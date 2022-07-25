@@ -1,7 +1,1 @@
-{
-  "users": {
-    "user": {
-      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
-    }
-  }
-}
+{"users":{"user":{"passwordHash":"5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"},"ooba":{"passwordHash":"8d9c801312a1c700b49b17658bfe31dcfe5a3650dac45e2479efb9dce906404b"},"iiiba":{"passwordHash":"3b596eb588696bbf8ee29360f6524f5126197e4464c1be8282da656c104f0adc"}}}
